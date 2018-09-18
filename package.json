@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/taicristiano/node_js#readme",
   "dependencies": {
-    "node-persist": "^3.0.1"
+    "node-persist": "0.0.8"
   }
 }
